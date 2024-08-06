@@ -1,4 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{}</component>
+  <component name="ChangeListManager">
+    <list default="true" id="301ab310-11c7-4b86-a23d-5548802cb0ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ButtonLink.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/CartContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Center.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Featured.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/NewProducts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ProductBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ProductImages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ProductsGrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Title.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/WhiteBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/icons/Bars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/icons/CartIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/colors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mongoose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/checkout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/webhook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/product/[id].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/thirteen.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "allysa-gatmen"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/allysa-gatmen/ecommerce-front.git",
+    "accountId": "8be468c3-3aa8-4ed8-888c-392983fa86a5"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2kHpSQSAzEau2v9zEWHHsGPgym3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/GATMEN/WebstormProjects/ecommerce-front",
+    "nodejs_package_manager_path": "yarn",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="301ab310-11c7-4b86-a23d-5548802cb0ea" name="Changes" comment="" />
+      <created>1722950356103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722950356103</updated>
+      <workItem from="1722950357489" duration="353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
 </project>
