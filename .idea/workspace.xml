@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="301ab310-11c7-4b86-a23d-5548802cb0ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ButtonLink.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/CartContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Center.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Featured.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/NewProducts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ProductBox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ProductImages.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ProductsGrid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Title.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/WhiteBox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/icons/Bars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/icons/CartIcon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/colors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mongoose.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/api/cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/api/checkout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/api/webhook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/product/[id].js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/thirteen.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,35 +12,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "allysa-gatmen"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;allysa-gatmen&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/allysa-gatmen/ecommerce-front.git",
-    "accountId": "8be468c3-3aa8-4ed8-888c-392983fa86a5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/allysa-gatmen/ecommerce-front.git&quot;,
+    &quot;accountId&quot;: &quot;8be468c3-3aa8-4ed8-888c-392983fa86a5&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2kHpSQSAzEau2v9zEWHHsGPgym3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/GATMEN/WebstormProjects/ecommerce-front",
-    "nodejs_package_manager_path": "yarn",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/GATMEN/WebstormProjects/ecommerce-front&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -91,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722950356103</updated>
       <workItem from="1722950357489" duration="353000" />
+      <workItem from="1723012386078" duration="69000" />
     </task>
     <servers />
   </component>
